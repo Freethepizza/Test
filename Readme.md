@@ -8,7 +8,7 @@ Prueba de markdown
 - otra
 - otra
 
-##otras cosas
+## otras cosas
 
 formatear texto en *cursiva* o en **negrita** además de [Enlaces](google.com)
 
