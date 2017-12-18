@@ -18,6 +18,8 @@ void main(){
 do{
 printf("mundo");
 }while(0);
-}```
+} 
+
+```
 
 esto es lo último añadido
